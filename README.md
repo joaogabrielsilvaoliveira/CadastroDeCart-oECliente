@@ -1,5 +1,5 @@
 # CadastroDeCart-oECliente
-Infelizmente, não consegui cumprir 100% o desafio, mas dei meu máximo como nunca antes.
+
 
 OBS: No código, através do swagger, a opção 
 "pessoaId": 0,
